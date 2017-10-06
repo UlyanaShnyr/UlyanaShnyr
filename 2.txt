@@ -1,4 +1,8 @@
 void main(){
 int a=10;
 cout<<a;
+
+
+string str="Hello:';
+cout<<str;
 }
