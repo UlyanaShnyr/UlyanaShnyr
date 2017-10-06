@@ -1,4 +1,6 @@
 void main(){
 int a=10;
 cout<<a;
+double d=a+2.1;
+cout<<d;
 }
